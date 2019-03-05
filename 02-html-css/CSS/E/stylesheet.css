@@ -1,0 +1,44 @@
+
+
+body {
+    background-color: #eeeeee;
+}
+.Blue {
+    background: blue;
+    justify-content: start;
+}
+.Green {
+    background: green;
+    justify-content: end;
+}
+.Red {
+    background: Red;
+    justify-content: center;
+    
+}
+.box{
+    height:100px;
+    width: 100px;
+}
+
+#wrapper{
+    background: #ffffff;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+#wrapper_s{
+    background: #ffffff;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+#wrapper:after{
+    content: "";
+    display: block;
+    clear: both;
+}
