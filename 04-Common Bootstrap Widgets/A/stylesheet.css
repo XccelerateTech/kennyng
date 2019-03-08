@@ -1,0 +1,42 @@
+.bannerorder {
+    width: 100%;
+    height: auto;
+}
+.sc_height_500 {
+    width: 100%;
+    height: 500px;
+}
+.sc_height_250 {
+    width: 100%;
+    height: 250px;
+}
+.Red_bkg{
+    background-color: red;
+
+}
+.Blue_bkg{
+    background-color: blue;
+
+}
+.white_bkg{
+    background-color: white;
+
+}
+.about_bkg{
+    background-color: #f05f40;
+
+}
+.displayFlex{
+    display:flex;
+}
+.blackBkg{
+    background-color: black;
+
+}
+.noPadding{
+    padding: 0 0 0 0 !important;
+}
+.noMargin{
+    margin-right: 0;
+    margin-left: 0;
+}
