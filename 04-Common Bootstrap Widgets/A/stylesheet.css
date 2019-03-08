@@ -1,0 +1,50 @@
+
+.bannerorder {
+    background-image: url(./images/header.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    min-height: 1920px;
+}
+.sc_height_500 {
+    width: 100%;
+    height: 500px;
+}
+.sc_height_250 {
+    width: 100%;
+    height: 250px;
+}
+.Red_bkg{
+    background-color: red;
+
+}
+.Blue_bkg{
+    background-color: blue;
+
+}
+.white_bkg{
+    background-color: white;
+
+}
+.about_bkg{
+    background-color: #f05f40;
+
+}
+.displayFlex{
+    display:flex;
+}
+.blackBkg{
+    background-color: black;
+
+}
+.noPadding{
+    padding: 0 0 0 0 !important;
+}
+.noMargin{
+    margin-right: 0;
+    margin-left: 0;
+}
+.pictureorder {
+    width: 100%;
+    height: auto;
+}
