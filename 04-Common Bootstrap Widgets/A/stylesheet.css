@@ -4,7 +4,7 @@
     background-position: center;
     background-size: cover;
     width: 100%;
-    min-height: 1920px;
+    min-height: auto;
 }
 .sc_height_500 {
     width: 100%;
@@ -45,6 +45,46 @@
     margin-left: 0;
 }
 .pictureorder {
+    width: 100%;
+    height: auto;
+}
+.margin-center {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+}
+.font-colour_white{
+    color: white;
+}
+.font-size-65{
+    font-size: 65px;
+}
+.text-align-center{
+    text-align: center
+}
+.font-size-18{
+    font-size: 18px;
+}
+.banner-line_orange{
+    max-width: 50px;
+    border-color: #f05f40;
+    border-width: 3px
+}
+.banner-line_white{
+    max-width: 50px;
+    border-color: white;
+    border-width: 3px
+}
+.icon_size_4x{
+    font-size: 4ex;
+}
+.icon_colour_orange{
+    color: #f05f40;
+}
+.text_colour{
+    color: #777;
+}
+.sc_height_auto{
     width: 100%;
     height: auto;
 }
