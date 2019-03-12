@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .bannerorder {
     background-image: url(./images/header.jpg);
@@ -5,6 +6,11 @@
     background-size: cover;
     width: 100%;
     min-height: auto;
+=======
+.bannerorder {
+    width: 100%;
+    height: auto;
+>>>>>>> 64e5b3f42a9435421bb645cd865119206a52412a
 }
 .sc_height_500 {
     width: 100%;
@@ -43,6 +49,7 @@
 .noMargin{
     margin-right: 0;
     margin-left: 0;
+<<<<<<< HEAD
 }
 .pictureorder {
     width: 100%;
@@ -112,3 +119,6 @@
     color: #fff;
     text-transform: capitalize;
  }
+=======
+}
+>>>>>>> 64e5b3f42a9435421bb645cd865119206a52412a
