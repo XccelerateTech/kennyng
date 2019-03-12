@@ -88,3 +88,27 @@
     width: 100%;
     height: auto;
 }
+.hint{
+    opacity: 0;
+    background: rgba(240,95,64,.9);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.6)
+}
+.hint:hover {
+    opacity: 1;
+ }
+ .hint span.word {
+    display: block;
+    font-size: 1.5rem;
+    color: #fff;
+    text-transform: capitalize;
+ }
