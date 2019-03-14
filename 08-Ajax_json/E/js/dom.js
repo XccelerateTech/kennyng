@@ -1,0 +1,3 @@
+console.log(document.getElementById("info-field")); //returns <div id="info-field"><p>some info</p></div>
+console.log(document.getElementsByClassName("content-section")) //returns <div class="content-section">...</div>,                                                                         <div class="content-section">...</div>
+console.log(document.getElementsByTagName("h3")) //returns <h3>Section Heading</h3>
